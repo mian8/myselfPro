@@ -365,11 +365,6 @@ class mocks():
 
     def test3Ip(self):
         fool=getIpAndCheck()
-        # iplist = fool.getAndlxml("https://www.kuaidaili.com/free/intr/",fool.funcA)
-        # iplist=['121.69.10.62:9090', '183.247.152.98:53281', '223.82.106.253:3128','123.139.56.238:9999']
-        # ss= fool.checkIp(iplist)
-        # validIp=[{'ipAdress': '39.109.123.188', 'port': '3128', 'status': 1}, {'ipAdress': '222.94.196.241', 'port': '3128', 'status': 1}, {'ipAdress': '113.204.164.194', 'port': '8080', 'status': 1}, {'ipAdress': '222.94.196.138', 'port': '3128', 'status': 1}, {'ipAdress': '222.90.110.194', 'port': '8080', 'status': 1}, {'ipAdress': '190.122.186.222', 'port': '8080', 'status': 1}, {'ipAdress': '47.91.137.211', 'port': '3128', 'status': 1}, {'ipAdress': '183.196.170.247', 'port': '9000', 'status': 1}, {'ipAdress': '117.141.155.242', 'port': '53281', 'status': 1}]
-        # fool.sqlAndSave(validIp)
 
         #废物代理网站
         # fool.getAndlxml("https://www.kuaidaili.com/free/inha/",fool.funcA)
